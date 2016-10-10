@@ -52,6 +52,7 @@ gem 'bootstrap', '~> 4.0.0.alpha4'
 gem "font-awesome-rails"
 
 gem 'simple_form'
+#form design
 
 gem 'devise'
 #user authentication
